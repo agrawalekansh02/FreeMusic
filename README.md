@@ -16,13 +16,15 @@ Make sure you have `ffmepg` and `youtube-dl` installed and make sure to install 
 python3 music.py
 ```
 
-2.  Type in the song name (nothing else)
+2.  Type in song titles seperated with commas (no spaces)
 
 ```
 Song name?:
 ```
 
-3. Press "q" and "enter" when all song names are inputted
+3.  Wait for the queried songs to download and get tagged in the current directory.
+
+4.  Press `q` and `enter` when all song titles are inputted
 
 ## How does this work
 
